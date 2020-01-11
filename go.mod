@@ -1,3 +1,3 @@
-module github.com/kkahula/arrse
+module arsse
 
 go 1.13

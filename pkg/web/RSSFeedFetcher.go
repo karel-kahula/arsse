@@ -1,7 +1,7 @@
 package web
 
 import (
-	"arsse/pkg/entities"
+	"cursse/pkg/entities"
 )
 
 type rssFeedFetcherImpl struct {

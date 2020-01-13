@@ -13,10 +13,10 @@
 # limitations under the License.
 
 # The project base name
-PROJ := arsse
+PROJ := cursse
 
 # The binaries to build (just the basenames).
-BINS := arsse
+BINS := cursse
 
 # Where to push the docker image.
 REGISTRY ?= kk

@@ -1,6 +1,6 @@
 package testdoubles
 
-import "arsse/pkg/entities"
+import "cursse/pkg/entities"
 
 type RSSFeedFetcherStub struct{}
 

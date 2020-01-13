@@ -1,2 +1,2 @@
-# aRSSe
+# cuRSSe
 an rss reader

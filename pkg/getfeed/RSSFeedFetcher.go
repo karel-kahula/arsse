@@ -1,6 +1,6 @@
 package getfeed
 
-import "arsse/pkg/entities"
+import "cursse/pkg/entities"
 
 type RSSFeedFetcher interface {
 	Fetch(feeds []string) ([]entities.RSSFeed, error)

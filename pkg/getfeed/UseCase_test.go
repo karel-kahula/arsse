@@ -3,7 +3,7 @@ package getfeed
 import (
 	"testing"
 
-	"arsse/pkg/testdoubles"
+	"cursse/pkg/testdoubles"
 )
 
 func TestNewUseCase(t *testing.T) {

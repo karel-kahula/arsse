@@ -3,9 +3,9 @@ package main
 import "log"
 
 import (
-	"arsse/pkg/getfeed"
-	"arsse/pkg/web"
-	//"arse/pkg/ui/stdout"
+	"cursse/pkg/getfeed"
+	"cursse/pkg/web"
+	//"cursse/pkg/ui/stdout"
 )
 
 func main() {

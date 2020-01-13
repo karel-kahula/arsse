@@ -1,6 +1,6 @@
 package getfeed
 
-import "arsse/pkg/entities"
+import "cursse/pkg/entities"
 
 type RSSFeedPresenter interface {
 	ShowFeeds([]entities.RSSFeed) error
